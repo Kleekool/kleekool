@@ -9,10 +9,10 @@
     }
 
     ::-webkit-scrollbar-thumb {
-        @apply bg-[#C3073F];
+        @apply bg-[#bfd6c3];
     }
 
     body {
-        @apply font-sans bg-black
+        @apply font-Helvetica bg-black //font-sans bg-black
     }
 }
